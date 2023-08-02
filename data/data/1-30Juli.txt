@@ -1,0 +1,235 @@
+2023-07-09 23:09:49.587584
+Tipe *(Ruby)* Blok *B2* No. *3a* *_BOOKING + DP_*
+2023-07-09 23:18:21.039265
+Tipe *(Ruby)* Blok *B2* No. *3a* *_BOOKING_*
+2023-07-11 18:09:20.827874
+Tipe *(Sapphire)* Blok *C5* No. *1* *_BOOKING_*
+2023-07-11 18:09:20.827874
+Tipe *(Sapphire)* Blok *c6* No. *1* *_BOOKING_*
+2023-07-12 14:45:52.695606
+Tipe *(Ruby)* Blok *B4* No. *6* *_OPEN_*
+2023-07-13 08:38:27.120284
+Tipe *(Ruby)* Blok *B4* No. *6* *_BOOKING_*
+2023-07-15 13:32:51.259609
+Tipe *(Ruby)* Blok *B2* No. *8,9* *_BOOKING_*
+2023-07-15 14:03:32.625105
+Tipe *(Zamrud)* Blok *A1* No. *3* *_BOOKING_*
+2023-07-15 14:04:12.619347
+Tipe *(Ruby)* Blok *B2* No. *9* *_BOOKING_*
+2023-07-15 14:11:10.820000
+Tipe *(Ruby)* Blok *B5* No. *1* *_BOOKING_*
+2023-07-15 15:11:10.153981
+Tipe *(Ruby)* Blok *B7* No. *1,6,7,8* *_BOOKING_*
+2023-07-15 15:31:59.610522
+Tipe *(Kalimaya)* Blok *D7* No. *8* *_BOOKING_*
+2023-07-15 15:34:16.344877
+Tipe *(Zamrud)* Blok *A1* No. *2* *_LUNAS_*
+2023-07-15 15:40:10.091145
+Tipe *(Ruby)* Blok *B2* No. *5* *_BOOKING_*
+2023-07-15 15:43:58.975219
+Tipe *(Ruby)* Blok *B4* No. *1,12* *_BOOKING_*
+2023-07-15 15:44:58.546936
+Tipe *(Ruby)* Blok *B7* No. *5* *_BOOKING_*
+2023-07-15 16:27:20.048407
+Tipe *(Ruby)* Blok *B5* No. *24* *_BOOKING + DP_*
+2023-07-15 17:38:10.617447
+Tipe *(Ruby)* Blok *B1* No. *1* *_BOOKING_*
+2023-07-15 20:27:28.733070
+Tipe *(Zamrud)* Blok *A3* No. *1* *_BOOKING_*
+2023-07-16 08:40:49.611180
+Tipe *(Zamrud)* Blok *A1* No. *1* *_DP_*
+2023-07-16 08:41:48.763450
+Tipe *(Ruby)* Blok *B7* No. *5* *_DP_*
+2023-07-16 10:55:37.416759
+Tipe *(Kalimaya)* Blok *D7* No. *8* *_OPEN_*
+2023-07-16 13:25:18.472516
+Tipe *(Ruby)* Blok *B5* No. *12,12a* *_BOOKING_*
+2023-07-16 13:25:51.771280
+Tipe *(Ruby)* Blok *B3* No. *9,10* *_BOOKING_*
+2023-07-16 13:26:20.251892
+Tipe *(Ruby)* Blok *B4* No. *2* *_LUNAS_*
+2023-07-17 06:37:45.794523
+Tipe *(Sapphire)* Blok *C2* No. *5* *_BOOKING_*
+2023-07-17 06:43:00.563513
+Tipe *(Ruby)* Blok *B7* No. *6,7,8* *_OPEN_*
+2023-07-17 08:16:48.462943
+Tipe *(Ruby)* Blok *B7* No. *6,7,8* *_BOOKING_*
+2023-07-17 14:00:29.982487
+Tipe *(Zamrud)* Blok *A1* No. *3* *_CASH KERAS_*
+2023-07-17 14:00:47.937445
+Tipe *(Ruby)* Blok *B7* No. *6,7,8* *_OPEN_*
+2023-07-17 16:22:52.141474
+Tipe *(Ruby)* Blok *B2* No. *10,3a* *_OPEN_*
+2023-07-19 09:08:13.490573
+Tipe *(Sapphire)* Blok *C1* No. *2,3* *_OPEN_*
+2023-07-19 09:09:00.407352
+Tipe *(Topaz)* Blok *D8* No. *5* *_OPEN_*
+2023-07-19 10:26:58.211893
+Tipe *(Ruby)* Blok *B3* No. *8* *_DP_*
+2023-07-19 11:02:56.433301
+Tipe *(Ruby)* Blok *B4* No. *1,12* *_BOOKING_*
+2023-07-19 11:17:52.165949
+Tipe *(Ruby)* Blok *B7* No. *6* *_BOOKING_*
+2023-07-19 12:43:27.361850
+Tipe *(Topaz)* Blok *D9* No. *9* *_BOOKING_*
+2023-07-19 13:36:33.623093
+Tipe *(Topaz)* Blok *D9* No. *9* *_CASH KERAS_*
+2023-07-19 13:39:57.462945
+Tipe *(Topaz)* Blok *d9* No. *0* *_OPEN_*
+2023-07-19 13:51:46.269097
+Tipe *(Topaz)* Blok *D9* No. *10* *_BOOKING_*
+2023-07-19 15:40:20.369232
+Tipe *(Sapphire)* Blok *C3* No. *1, 12* *_BOOKING_*
+2023-07-19 17:01:39.151233
+Tipe *(Ruby)* Blok *B2* No. *6* *_BOOKING_*
+2023-07-19 17:12:10.914263
+Tipe *(Sapphire)* Blok *C4* No. *14* *_BOOKING_*
+2023-07-19 17:33:52.434151
+Tipe *(Ruby)* Blok *B7* No. *7* *_CASH KERAS_*
+2023-07-19 18:14:01.049394
+Tipe *(Topaz)* Blok *D9* No. *2* *_BOOKING_*
+2023-07-20 08:38:00.487747
+Tipe *(Kalimaya)* Blok *D6* No. *18* *_BOOKING_*
+2023-07-20 09:04:52.280807
+Tipe *(Ruby)* Blok *B2* No. *10* *_BOOKING_*
+2023-07-20 09:56:06.126961
+Tipe *(Ruby)* Blok *B2* No. *8,9* *_CASH KERAS_*
+2023-07-20 09:57:36.050333
+Tipe *(Ruby)* Blok *B2* No. *8,9* *_OPEN_*
+2023-07-20 13:19:02.204227
+Tipe *(Ruby)* Blok *B3* No. *9,10* *_DP_*
+2023-07-20 15:11:51.559166
+Tipe *(Ruby)* Blok *B7* No. *6* *_CASH KERAS_*
+2023-07-20 15:14:45.308733
+Tipe *(Ruby)* Blok *B2* No. *5* *_CASH KERAS_*
+2023-07-20 15:16:51.898675
+Tipe *(Ruby)* Blok *B7,B2* No. *6,5* *_OPEN_*
+2023-07-20 17:59:31.512852
+Tipe *(Ruby)* Blok *B2* No. *3a* *_BOOKING_*
+2023-07-21 10:35:17.904314
+Tipe *(Ruby)* Blok *B4* No. *1* *_DP_*
+2023-07-21 15:33:37.556014
+Tipe *(Ruby)* Blok *C2* No. *5* *_DP_*
+2023-07-22 08:34:40.224350
+Tipe *(Ruby)* Blok *B7* No. *5* *_CASH KERAS_*
+2023-07-22 13:12:51.244545
+Tipe *(Ruby)* Blok *B2* No. *3a* *_DP_*
+2023-07-22 13:15:49.842043
+Tipe *(Ruby)* Blok *B7* No. *1* *_OPEN_*
+2023-07-22 15:09:36.889757
+Tipe *(Topaz)* Blok *D9* No. *3* *_BOOKING + DP_*
+2023-07-22 16:52:37.753597
+Tipe *(Sapphire)* Blok *C1* No. *1* *_OPEN_*
+2023-07-23 09:02:12.558158
+Tipe *(Ruby)* Blok *B7* No. *2,8* *_BOOKING_*
+2023-07-23 11:29:30.403247
+Tipe *(Ruby)* Blok *B1* No. *3,3a* *_BOOKING_*
+2023-07-23 12:21:11.538758
+Tipe *(Ruby)* Blok *B5* No. *14,15* *_BOOKING + DP_*
+2023-07-23 12:31:54.647481
+Tipe *(Ruby)* Blok *B5* No. *2,3* *_BOOKING + DP_*
+2023-07-23 12:50:41.147741
+Tipe *(Ruby)* Blok *1* No. *5* *_BOOKING + DP_*
+2023-07-23 12:52:44.112137
+Tipe *(Ruby)* Blok *B4* No. *5* *_BOOKING_*
+2023-07-23 13:23:30.066651
+Tipe *(Topaz)* Blok *D9* No. *5* *_BOOKING_*
+2023-07-23 15:29:13.579545
+Tipe *(Topaz)* Blok *D9* No. *3a* *_BOOKING + DP_*
+2023-07-23 16:48:32.428184
+Tipe *(Ruby)* Blok *B5* No. *3a* *_BOOKING_*
+2023-07-23 16:51:07.623120
+Tipe *(Zamrud)* Blok *A4* No. *2* *_BOOKING_*
+2023-07-23 18:46:19.758968
+Tipe *(Ruby)* Blok *B2* No. *1,2* *_DP_*
+2023-07-23 18:49:01.285326
+Tipe *(Zamrud)* Blok *A3* No. *1* *_DP_*
+2023-07-23 18:49:27.879387
+Tipe *(Kalimaya)* Blok *D2* No. *6* *_BOOKING_*
+2023-07-24 08:48:16.195617
+Tipe *(Ruby)* Blok *B5* No. *16,17* *_BOOKING_*
+2023-07-24 10:06:54.878242
+Tipe *(Ruby)* Blok *B5* No. *14,15* *_LUNAS_*
+2023-07-24 11:38:59.621695
+Tipe *(Ruby)* Blok *B5* No. *5* *_DP_*
+2023-07-24 21:45:07.213754
+Tipe *(Sapphire)* Blok *C3* No. *12* *_DP_*
+2023-07-24 21:47:19.393765
+Tipe *(Ruby)* Blok *B5* No. *2,3* *_CASH KERAS_*
+2023-07-24 21:47:58.476260
+Tipe *(Zamrud)* Blok *a1* No. *0* *_OPEN_*
+2023-07-24 21:54:45.884871
+Tipe *(Zamrud)* Blok *A3* No. *1* *_DP_*
+2023-07-24 21:56:02.379485
+Tipe *(Topaz)* Blok *D9* No. *8* *_OPEN_*
+2023-07-25 08:40:32.586283
+Tipe *(Ruby)* Blok *B3* No. *1* *_DP_*
+2023-07-25 14:10:15.561953
+Tipe *(Topaz)* Blok *D9* No. *10* *_OPEN_*
+2023-07-25 15:43:18.238089
+Tipe *(Ruby)* Blok *B1* No. *6* *_DP_*
+2023-07-25 15:49:53.754976
+Tipe *(Kalimaya)* Blok *D4* No. *11, 12* *_BOOKING_*
+2023-07-25 16:43:12.144181
+Tipe *(Zamrud)* Blok *a1* No. *1* *_BOOKING_*
+2023-07-25 16:43:41.739406
+Tipe *(Zamrud)* Blok *a1* No. *1* *_OPEN_*
+2023-07-26 08:45:55.561361
+Tipe *(Ruby)* Blok *B3* No. *6* *_BOOKING_*
+2023-07-26 08:50:14.281987
+
+
+2023-07-26 11:25:56.590312
+Tipe *(Ruby)* Blok *B2* No. *10* *_CASH KERAS_*
+2023-07-26 11:27:09.953641
+Tipe *(Ruby)* Blok *B2* No. *10* *_OPEN_*
+2023-07-26 11:27:58.617786
+Tipe *(Ruby)* Blok *B2* No. *10* *_OPEN_*
+2023-07-26 13:36:31.911469
+Tipe *(Sapphire)* Blok *C4* No. *14* *_CASH KERAS_*
+2023-07-26 13:41:58.054598
+Tipe *(Sapphire)* Blok *C4* No. *14* *_OPEN_*
+2023-07-26 15:29:35.707099
+Tipe *(Ruby)* Blok *B1* No. *5* *_CASH KERAS_*
+2023-07-26 15:30:43.343069
+Tipe *(Ruby)* Blok *B1* No. *5* *_OPEN_*
+2023-07-27 10:38:37.082749
+Tipe *(Ruby)* Blok *B5* No. *1* *_BOOKING_*
+2023-07-27 14:18:42.425624
+Tipe *(Ruby)* Blok *B7* No. *1* *_BOOKING_*
+2023-07-28 16:15:34.589339
+Tipe *(2)* Blok *B5* No. *2,3* 
+ *_PINDAH_* 
+ Tipe *(Ruby)* Blok *B5* No. *18,19*
+2023-07-28 16:18:20.265702
+Tipe *(Ruby)* Blok *B5* No. *5* *_CASH KERAS_*
+2023-07-28 16:21:09.817476
+Tipe *(Ruby)* Blok *B4* No. *5* *_OPEN_*
+2023-07-29 15:15:25.556757
+Tipe *(Kalimaya)* Blok *D5* No. *12a* *_BOOKING_*
+2023-07-29 16:07:52.962264
+Tipe *(Kalimaya)* Blok *D5* No. *12* *_CASH KERAS_*
+2023-07-29 16:08:40.616395
+Tipe *(Topaz)* Blok *D9* No. *8* *_BOOKING_*
+2023-07-29 16:44:46.983546
+Tipe *(Ruby)* Blok *B2* No. *7* *_BOOKING + DP_*
+2023-07-29 20:00:47.235663
+Tipe *(Sapphire)* Blok *C4* No. *1* *_BOOKING_*
+2023-07-30 08:48:49.243895
+Tipe *(Ruby)* Blok *B5* No. *12a* *_DP_*
+2023-07-30 10:03:46.791623
+Tipe *(Ruby)* Blok *B5* No. *23* *_BOOKING + DP_*
+2023-07-30 13:24:37.144659
+Tipe *(Ruby)* Blok *B3* No. *2,3,3a,5* *_BOOKING + DP_*
+2023-07-30 14:02:02.928530
+Tipe *(Sapphire)* Blok *C1* No. *1,2,3* *_BOOKING_*
+2023-07-30 15:44:05.843089
+Tipe *(Ruby)* Blok *B5* No. *12a* *_CASH KERAS_*
+2023-07-30 15:44:33.444553
+Tipe *(Ruby)* Blok *B5* No. *12a* *_OPEN_*
+2023-07-30 16:37:45.479551
+Tipe *(Ruby)* Blok *B5* No. *22,23* *_BOOKING_*
+2023-07-30 17:17:30.362017
+Tipe *(Zamrud)* Blok *A3* No. *2,3* *_BOOKING_*
+2023-07-31 08:47:07.629114
+Tipe *(Kalimaya)* Blok *D7* No. *5* *_OPEN_*
